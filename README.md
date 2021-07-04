@@ -1,5 +1,3 @@
-# Task_management_backend
-
 <h1 align="center"> 
  Proyecto Task_management_backend
 <img width="100" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="Vue logo"></a></h1>
